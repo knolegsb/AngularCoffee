@@ -1,0 +1,302 @@
+﻿/* #Tablet (Portrait) Note: Design for a width of 768px
+================================================== */
+@media only screen and (min-width: 979px) and (max-width: 1199px) {
+.mnf_sup_list li .left_side {
+	width: 327px;
+}
+#minic_slider{ width:643px;}
+#htmlcontent_top{ width:297px;}
+.products_block ul li > div {
+	float: left;
+	margin-top: -4px;
+	padding: 0;
+	width: 125px;
+}
+#menu-wrap{ padding-left:0; padding-top:0; background:none;}
+#wrapp_2{ max-width:976px}
+#header_logo{ width:330px;}
+.theme-default .nivo-controlNav{ left:612px;}
+#customcontent_top li{ width:410px;}
+#customcontent_top h2{ width:195px; top:53px; font-size:18px;}
+#customcontent_top h2 span{ font-size:14px;}
+.btn-content{ right:106px; top:135px;}
+#customcontent_top li + li{ width:146px; margin-top:25px;}
+#customcontent_top li + li h2{ width:146px; top:82px;}
+.bottom_footer{ width:940px; left:20px;}
+.main_page_products ul li img{ width:218px;}
+.main_page_products .price{ left:146px; top:10px;-moz-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+-webkit-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+-o-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+-ms-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);}
+.price-content{ top:48px;}
+#subcategories ul li {
+	width: 160px;
+}
+#search_block_top{ top:158px;}
+#subcategories ul li.product_list_4 {
+	margin-right: 0;
+}
+#subcategories ul li.product_list_5 {
+	margin-right: 20px;
+}
+footer .block .list-footer li a {
+	padding-right: 10px;
+}
+table#cart_summary .cart_discount_price .div_cart_quantity_delete a {
+	margin-top: 3px;
+}
+.products_block ul li .reduction {
+	margin-left: 20px;
+	margin-right: 0;
+}
+.bottom_pagination {
+	margin-top: 10px;
+}
+#layered_form div div ul {
+	position: relative;
+}
+#layered_form .select {
+	width: 220px;
+	height: 32px;
+	left: 0!important;
+	top: 15px!important;
+}
+.order_delivery .address.first_item, ul#address_delivery {
+	width: 41%;
+}
+.order_delivery .address.alternate_item, ul#address_invoice {
+	width: 42%;
+}
+.addresses #id_address_delivery {
+	width: 329px;
+}
+#wrapp{ padding-bottom:30px;}
+}
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+	#wrapp{ padding-bottom:30px;}
+	#wrapp_2{ max-width:756px}
+	#header-inner{ padding-top:265px;}
+	#minic_slider{ width:495px;}
+#htmlcontent_top{ width:229px;}
+	#menu-wrap{ padding-left:0; padding-top:0; background:none;}
+	.theme-default .nivo-controlNav{ left:467px;}
+.blocksocial li{ margin-right:10px;}
+#customcontent_top li{ width:360px; margin-right:20px;}
+#customcontent_top h2{ width:170px; top:37px; font-size:16px; line-height:20px;}
+#customcontent_top h2 span{ font-size:12px;}
+.btn-content{ right:81px; top:103px;}
+#customcontent_top li + li{ width:100px; margin-top:37px;}
+#customcontent_top li + li h2{ width:100px; top:52px; font-size:12px;}
+
+
+.bottom_footer{ width:722px; left:20px;}
+.main_page_products ul li img{ width:164px;}
+.main_page_products .price{ left:96px; top:10px;-moz-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+-webkit-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+-o-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+-ms-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);}
+.price-content{ top:23px;}
+.contact_phone,
+footer .contact_mail a{ font-size:15px;}
+.contact_phone{ padding-top:16px;}
+
+.main-mobile-menu {
+	display: block;
+	margin-left: 20px;
+	margin-top: -44px;
+}
+#header_logo {
+	left:247px; top:74px;
+	
+}
+#header_logo img {
+	width:250px;
+}
+#search_block_top{ top:203px;}
+#header_user{ top:144px;}
+#search_block_top input.search_query {
+	width: 180px;
+}
+#header {
+	padding: 0 0 20px;
+}
+#header_user #shopping_cart .ajax_cart_product_txt, #header_user #shopping_cart .ajax_cart_product_txt_s {
+	display: none!important;
+}
+/* ************************************************************************************************
+			  CATEGORY PAGE
+			************************************************************************************************ */
+.product_sort {
+	margin-right: 20px;
+}
+.product_sort form {
+	margin: 0;
+}
+.bottom_pagination {
+	margin-top: 10px;
+}
+#subcategories {
+	margin-bottom: 0px;
+}
+#subcategories ul li {
+	width: 119px;
+}
+#subcategories ul li.product_list_6 {
+	margin-right: 10px;
+}
+#subcategories ul li.product_list_4 {
+	margin-right: 0;
+}
+ #product_comparison . footable-row-detail-inner div strong {
+font-size:30px;
+}
+.instant .grid li h3 {
+	min-height: 54px;
+}
+.grid li h3 {
+	min-height: 54px;
+}
+#product_comparison .product_image_div a img {
+	width: 70px;
+}
+#product_comparison .product_image_div span {
+	width: 30px;
+}
+#product_comparison th {
+	white-space: normal;
+	padding: 5px;
+	text-align: center;
+}
+#ul_layered_price_0 span, .layered_weight > ul.store_list_filter > li span {
+	margin: 5px 19px 19px 0;
+	min-width: 30px;
+}
+.products_block ul li .reduction {
+	margin-left: 0;
+	margin-right: 0;
+}
+#layered_form div div ul {
+	position: relative;
+}
+#layered_form .select {
+	width: 166px;
+	height: 32px;
+	left: 0!important;
+	top: 15px!important;
+}
+#cluetip {
+	left: 50% !important;
+	margin-left: -225px;
+}
+/* ************************************************************************************************
+			  BOX COLUMN
+			************************************************************************************************ */
+.products_block ul li > div {
+	width: 94px;
+}
+.products_block ul li a.products_block_img {
+	width: 60px;
+}
+/* ************************************************************************************************
+			 CONTACT FORM
+			************************************************************************************************ */
+#contact_form textarea#message {
+	height: 200px;
+	width: 534px;
+}
+#contact_form p.submit {
+	padding-top: 20px;
+}
+#contact_form p {
+	padding-top: 7px;
+	padding-left: 0;
+}
+#contact_form p.upload-file {
+	display: none;
+}
+#contact_form .text input, #contact_form .password input {
+	width: 100%;
+}
+#contact_form select {
+	width: 100%;
+}
+#contact_form .select select {
+	width: 100%;
+}
+/* ************************************************************************************************
+			 MANUFACTURE
+			************************************************************************************************ */
+.mnf_sup_list li .left_side {
+	float: none;
+	padding: 0 0 0 0px;
+	width: 100%;
+	border: none;
+}
+.mnf_sup_list li .right_side {
+	float: none;
+	border: none;
+	height: auto;
+	min-height: auto;
+	padding-left: 0;
+}
+.mnf_sup_list li .des-small {
+	display: none;
+}
+.mnf_sup_list li .logo {
+	margin-right: 20px;
+}
+.mnf_sup_list li .logo img {
+	margin-top: 0;
+}
+.mnf_sup_list li .left_side h3 a {
+	margin-top: -3px;
+}
+.mnf_sup_list li .left_side h3 {
+	margin-top: 13px;
+}
+/* ************************************************************************************************
+			 ORDER
+			************************************************************************************************ */
+footer .block h4 {
+
+}
+table#cart_summary td.tdfirst {
+	width: 83%;
+}
+#order-list .history_detail .color-myaccount {
+	display: block;
+}
+.list-order-step li {
+	height: 250px;
+}
+.list-order-step .img-order {
+	margin-bottom: 55px;
+}
+.multishipping-cart .cart_ref {
+	padding: 5px!important;
+}
+table.multishipping-cart td {
+	padding: 5px !important;
+}
+.order_delivery .address.first_item, ul#address_delivery {
+	width: 39%;
+}
+.order_delivery .address.alternate_item, ul#address_invoice {
+	width: 39%;
+}
+.addresses #id_address_delivery {
+	width: 100%;
+}
+}
+@media only screen and (min-width: 768px) {
+.top_up {
+	margin-top: -57px;
+}
+.footer-bg-mob .block ul.toggle_content {
+	display: block !important;
+	height: 100% !important;
+	opacity: 1 !important
+}
+}
